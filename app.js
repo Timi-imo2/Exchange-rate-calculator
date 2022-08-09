@@ -1,0 +1,6 @@
+const currency_one = Document.getElementById('currency-one')
+const currency_two = Document.getElementById('currency-two')
+const amount_one = Document.getElementById('amount-one')
+const amount_two = Document.getElementById('amount_two')
+const swap = Document.getElementById('swap')
+const rate = Document.getElementById('rate')
